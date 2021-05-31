@@ -1,0 +1,9 @@
+## Interface: 99999
+## Title:|cffff7d0aMimicMaster|r|cff69ccf0 ver 2.0 TBC|r
+## Author: Spiken
+## Version: 2.0
+## Notes: MimicMaster
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+mimicmaster.lua
